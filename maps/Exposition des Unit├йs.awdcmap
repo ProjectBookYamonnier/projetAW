@@ -1,0 +1,11 @@
+hauteur=5,largeur=17,nbJoueurs=2
+a1,   ,b1 ,   ,z1 ,   ,c1 ,   ,d1 ,   ,h1 ,   ,i1 ,   ,t1, ,l1
+P ,P  ,P  ,P  ,P  ,P  ,P  ,P  ,P  ,P  ,P  ,P  ,P  ,P  ,P ,P,P
+  ,bg1,   ,cv1,   ,cr1,   ,pa1,   ,   ,   ,cu1,   ,sm1,  , , 
+E ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E ,E,E
+  ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,  , , 
+Q1,P  ,P  ,P  ,P  ,P  ,P  ,P  ,P  ,P  ,P  ,P  ,P  ,P  ,P ,P,Q2  
+  ,bg2,   ,cv2,   ,cr2,   ,pa2,   ,   ,   ,cu2,   ,sm2,  , , 
+E ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E ,E,E
+a2,   ,b2,   ,z2,   ,c2,   ,d2,   ,h2,   ,i2,   ,t2, , l2
+P ,P  ,P  ,P  ,P  ,P  ,P  ,P  ,P  ,P  ,P  ,P  ,P  ,P  ,P ,P,P

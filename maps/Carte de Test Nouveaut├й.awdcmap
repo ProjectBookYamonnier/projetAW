@@ -1,0 +1,23 @@
+hauteur=11,largeur=15,nbJoueurs=2
+   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,    
+F  ,F  ,P  ,P  ,P  ,P  ,P  ,Q1 ,P  ,P  ,P  ,P  ,P  ,F  ,F  
+   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,    
+P  ,P  ,P  ,P  ,P  ,P  ,V1 ,P  ,V1 ,P  ,P  ,P  ,P  ,P  ,P 
+   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,  
+S  ,S  ,S  ,S  ,S  ,S  ,S  ,U1 ,S  ,S  ,S  ,S  ,S  ,S  ,S
+   ,   ,cr1,   ,   ,   ,   ,sm1,   ,   ,   ,   ,pa1,   , 
+E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E
+   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   , 
+E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E
+   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   , 
+E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E
+   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   , 
+E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E 
+   ,   ,cr2,   ,   ,   ,   ,sm2,   ,   ,   ,   ,pa2,   ,  
+E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E  ,E
+   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   
+S  ,S  ,S  ,S  ,S  ,S  ,S  ,U2 ,S  ,S  ,S  ,S  ,S  ,S  ,S
+   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   , 
+P  ,P  ,P  ,P  ,P  ,P  ,V2 ,P  ,V2 ,P  ,P  ,P  ,P  ,P  ,P
+   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   , 
+F  ,F  ,P  ,P  ,P  ,P  ,P  ,Q2 ,P  ,P  ,P  ,P  ,P  ,F  ,F
